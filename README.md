@@ -12,6 +12,8 @@ This repository is a curated list of high-quality websites, creative tools, and 
 
 ### 🚀 Featured Site
 - **[Programmer Tools](https://zxhygq.com)** - A comprehensive toolbox for developers, providing various online utility tools to enhance efficiency.
+- **[Calnexa](https://calnexa.com)** - Free everyday calculators and utility tools: age, dates, business days, tips, percentages and more.
+- **[FarClock](https://farclock.com)** - Precise time-difference and world-clock lookup built on the IANA tzdata: DST-aware, per-timezone answers, hour-by-hour tables.
 
 ### ✍️ How to Contribute
 We welcome all high-quality websites! To add your site:
@@ -30,6 +32,8 @@ We welcome all high-quality websites! To add your site:
 
 ### 🚀 推荐站点
 - **[程序员工具站](https://zxhygq.com)** - 专为程序员打造的全方位工具箱，提供多种在线实用工具，提升开发效率。
+- **[Calnexa 生活工具](https://calnexa.com)** - 免费日常计算工具站：年龄计算、日期计算、工作日、小费、百分比等。
+- **[FarClock 时差查询](https://farclock.com)** - 基于 IANA 时区数据库的精确时差与世界时间查询：夏令时双值、多时区分行、逐小时对照表。
 
 ### ✍️ 如何贡献
 欢迎提交各类优质网站！添加步骤如下：
@@ -46,6 +50,8 @@ We welcome all high-quality websites! To add your site:
 | Website Name / 网站名称 | Category / 分类 | Description / 描述 |
 | :--- | :--- | :--- |
 | [Programmer Tools](https://zxhygq.com) | Developer Tools | Comprehensive utility toolbox for developers. |
+| [Calnexa](https://calnexa.com) | Everyday Tools | Free calculators for age, dates, business days, tips and more. |
+| [FarClock](https://farclock.com) | Time & Timezone | Precise time-difference lookup with DST-aware, per-timezone answers. |
 | [Your Website Name] | Category | Your brief description here. |
 
 ---
